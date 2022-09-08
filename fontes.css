@@ -1,0 +1,49 @@
+
+h1{
+   
+    color: black;
+    text-align: center;
+}
+
+h2{
+    color:black;
+    font-size: 45px;
+    text-align: center;
+    
+}
+
+body{
+    background-color:lightsteelblue
+    
+}
+
+.paragrafo{
+    color:midnightblue;
+    font-size: 20px;
+
+}
+ 
+ #Arial, p1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    text-align: left;
+ }
+
+ #Courier, p2 {
+     font-family: 'Times New Roman', Times, serif;
+     
+}
+
+ #Times, p3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+ }
+
+ #fantasy, p4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+ }
+
+ #serife, p5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+ }
